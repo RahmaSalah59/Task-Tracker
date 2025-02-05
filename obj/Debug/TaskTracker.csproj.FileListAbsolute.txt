@@ -1,0 +1,7 @@
+F:\02 grade4\c# projects\Task tracker\TaskTracker\bin\Debug\TaskTracker.exe.config
+F:\02 grade4\c# projects\Task tracker\TaskTracker\bin\Debug\TaskTracker.exe
+F:\02 grade4\c# projects\Task tracker\TaskTracker\bin\Debug\TaskTracker.pdb
+F:\02 grade4\c# projects\Task tracker\TaskTracker\obj\Debug\TaskTracker.csproj.AssemblyReference.cache
+F:\02 grade4\c# projects\Task tracker\TaskTracker\obj\Debug\TaskTracker.csproj.CoreCompileInputs.cache
+F:\02 grade4\c# projects\Task tracker\TaskTracker\obj\Debug\TaskTracker.exe
+F:\02 grade4\c# projects\Task tracker\TaskTracker\obj\Debug\TaskTracker.pdb
